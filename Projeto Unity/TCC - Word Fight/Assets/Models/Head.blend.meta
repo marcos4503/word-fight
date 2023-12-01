@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: bea85326cd53d0c4cb54323eaeb68f5b
+ModelImporter:
+  serializedVersion: 28
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Corpo
+  - first:
+      1: 100004
+    second: Cube
+  - first:
+      1: 100006
+    second: Bone
+  - first:
+      1: 100008
+    second: Bone_001
+  - first:
+      1: 100010
+    second: Bone_002
+  - first:
+      1: 100012
+    second: Ossos
+  - first:
+      1: 100014
+    second: Bone_003
+  - first:
+      1: 100016
+    second: Bone_005
+  - first:
+      1: 100018
+    second: Bone_007
+  - first:
+      1: 100020
+    second: Bone_008
+  - first:
+      1: 100022
+    second: Bone_009
+  - first:
+      1: 100024
+    second: Bone_010
+  - first:
+      1: 100026
+    second: Bone_011
+  - first:
+      1: 100028
+    second: Bone_012
+  - first:
+      1: 100030
+    second: Bone_013
+  - first:
+      1: 100032
+    second: Bone_014
+  - first:
+      1: 100034
+    second: Bone_015
+  - first:
+      1: 100036
+    second: Bone_016
+  - first:
+      1: 100038
+    second: Bone_017
+  - first:
+      1: 100040
+    second: Bone_018
+  - first:
+      1: 100042
+    second: Bone_019
+  - first:
+      1: 100044
+    second: Bone_022
+  - first:
+      1: 100046
+    second: Bone_023
+  - first:
+      1: 100048
+    second: Antebraco-Direito
+  - first:
+      1: 100050
+    second: Antebraco-Esquerdo
+  - first:
+      1: 100052
+    second: Aux-Clavicula-Direita
+  - first:
+      1: 100054
+    second: Aux-Clavicula-Esquerda
+  - first:
+      1: 100056
+    second: Aux-Espinha
+  - first:
+      1: 100058
+    second: Aux-Pescoco
+  - first:
+      1: 100060
+    second: Braco-Direito
+  - first:
+      1: 100062
+    second: Braco-Esquerdo
+  - first:
+      1: 100064
+    second: Cabeca
+  - first:
+      1: 100066
+    second: Coluna-Baixo
+  - first:
+      1: 100068
+    second: Coluna-Cima
+  - first:
+      1: 100070
+    second: Coxa-Direita
+  - first:
+      1: 100072
+    second: Coxa-Esquerda
+  - first:
+      1: 100074
+    second: Mao-Direito
+  - first:
+      1: 100076
+    second: Mao-Esquerda
+  - first:
+      1: 100078
+    second: Ombro-Direito
+  - first:
+      1: 100080
+    second: Ombro-Esquerdo
+  - first:
+      1: 100082
+    second: Panturrilha-Direita
+  - first:
+      1: 100084
+    second: Panturrilha-Esquerda
+  - first:
+      1: 100086
+    second: Pelvis
+  - first:
+      1: 100088
+    second: Aux-Pelve
+  - first:
+      1: 100090
+    second: Mao-Direita
+  - first:
+      1: 100092
+    second: Cabeca_0
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Corpo
+  - first:
+      4: 400004
+    second: Cube
+  - first:
+      4: 400006
+    second: Bone
+  - first:
+      4: 400008
+    second: Bone_001
+  - first:
+      4: 400010
+    second: Bone_002
+  - first:
+      4: 400012
+    second: Ossos
+  - first:
+      4: 400014
+    second: Bone_003
+  - first:
+      4: 400016
+    second: Bone_005
+  - first:
+      4: 400018
+    second: Bone_007
+  - first:
+      4: 400020
+    second: Bone_008
+  - first:
+      4: 400022
+    second: Bone_009
+  - first:
+      4: 400024
+    second: Bone_010
+  - first:
+      4: 400026
+    second: Bone_011
+  - first:
+      4: 400028
+    second: Bone_012
+  - first:
+      4: 400030
+    second: Bone_013
+  - first:
+      4: 400032
+    second: Bone_014
+  - first:
+      4: 400034
+    second: Bone_015
+  - first:
+      4: 400036
+    second: Bone_016
+  - first:
+      4: 400038
+    second: Bone_017
+  - first:
+      4: 400040
+    second: Bone_018
+  - first:
+      4: 400042
+    second: Bone_019
+  - first:
+      4: 400044
+    second: Bone_022
+  - first:
+      4: 400046
+    second: Bone_023
+  - first:
+      4: 400048
+    second: Antebraco-Direito
+  - first:
+      4: 400050
+    second: Antebraco-Esquerdo
+  - first:
+      4: 400052
+    second: Aux-Clavicula-Direita
+  - first:
+      4: 400054
+    second: Aux-Clavicula-Esquerda
+  - first:
+      4: 400056
+    second: Aux-Espinha
+  - first:
+      4: 400058
+    second: Aux-Pescoco
+  - first:
+      4: 400060
+    second: Braco-Direito
+  - first:
+      4: 400062
+    second: Braco-Esquerdo
+  - first:
+      4: 400064
+    second: Cabeca
+  - first:
+      4: 400066
+    second: Coluna-Baixo
+  - first:
+      4: 400068
+    second: Coluna-Cima
+  - first:
+      4: 400070
+    second: Coxa-Direita
+  - first:
+      4: 400072
+    second: Coxa-Esquerda
+  - first:
+      4: 400074
+    second: Mao-Direito
+  - first:
+      4: 400076
+    second: Mao-Esquerda
+  - first:
+      4: 400078
+    second: Ombro-Direito
+  - first:
+      4: 400080
+    second: Ombro-Esquerdo
+  - first:
+      4: 400082
+    second: Panturrilha-Direita
+  - first:
+      4: 400084
+    second: Panturrilha-Esquerda
+  - first:
+      4: 400086
+    second: Pelvis
+  - first:
+      4: 400088
+    second: Aux-Pelve
+  - first:
+      4: 400090
+    second: Mao-Direita
+  - first:
+      4: 400092
+    second: Cabeca_0
+  - first:
+      21: 2100000
+    second: unnamed
+  - first:
+      21: 2100002
+    second: None__7607_reference_skin_-_large_png
+  - first:
+      21: 2100004
+    second: None__7607_reference_skin_-_large_png_001
+  - first:
+      21: 2100006
+    second: None__atlas-humano_psd
+  - first:
+      23: 2300000
+    second: //RootNode
+  - first:
+      23: 2300002
+    second: Corpo
+  - first:
+      23: 2300004
+    second: Cube
+  - first:
+      33: 3300000
+    second: //RootNode
+  - first:
+      33: 3300002
+    second: Corpo
+  - first:
+      33: 3300004
+    second: Cube
+  - first:
+      43: 4300000
+    second: Corpo
+  - first:
+      43: 4300002
+    second: Cube
+  - first:
+      43: 4300004
+    second: Corpo_Humano
+  - first:
+      43: 4300006
+    second: Cabeca
+  - first:
+      74: 7400000
+    second: Default Take
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: //RootNode
+  - first:
+      137: 13700002
+    second: Corpo
+  - first:
+      137: 13700004
+    second: Cabeca
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
+  - first:
+      74: -623603649343465320
+    second: Scene
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__atlas-humano_psd
+    second: {fileID: 2100000, guid: d673c53c4b88bd74f8cbf6d79402adc9, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 1
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: CabecaHumana(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ossos
+      parentName: CabecaHumana(Clone)
+      position: {x: -0.0054935105, y: 1.9582247, z: 0.0044589043}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Coluna-Baixo
+      parentName: Ossos
+      position: {x: -0, y: 0, z: 0.045864463}
+      rotation: {x: 0.7071068, y: -0.00000008429372, z: -0.0000000842937, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aux-Espinha
+      parentName: Coluna-Baixo
+      position: {x: -0, y: 0.7730316, z: 0}
+      rotation: {x: 0, y: 0.00000011920929, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Coluna-Cima
+      parentName: Aux-Espinha
+      position: {x: -0, y: 0.095719814, z: 0}
+      rotation: {x: 0, y: -0.00000011920929, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aux-Pescoco
+      parentName: Coluna-Cima
+      position: {x: -0, y: 0.8069811, z: 0}
+      rotation: {x: 0, y: 7.1054274e-15, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Cabeca 1
+      parentName: Aux-Pescoco
+      position: {x: -0, y: 0.10057819, z: 0}
+      rotation: {x: 0, y: 0.00000011920928, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cabeca_end
+      parentName: Cabeca 1
+      position: {x: -0, y: 1.0963044, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aux-Clavicula-Esquerda
+      parentName: Coluna-Cima
+      position: {x: -0.47386393, y: 0.8496287, z: 0.000000112977965}
+      rotation: {x: -0.50000006, y: 0.49999994, z: 0.49999997, w: 0.50000006}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Ombro-Esquerdo
+      parentName: Aux-Clavicula-Esquerda
+      position: {x: -0, y: 0.13375229, z: 0}
+      rotation: {x: 0, y: -0.000000021855698, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Braco-Esquerdo
+      parentName: Ombro-Esquerdo
+      position: {x: -0, y: 0.35105687, z: 0}
+      rotation: {x: -0.0030855213, y: 0.7071004, z: -0.0030852857, w: 0.70709974}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Antebraco-Esquerdo
+      parentName: Braco-Esquerdo
+      position: {x: -0.00000005960465, y: 0.9079234, z: -3.9042925e-22}
+      rotation: {x: 8.881783e-16, y: -0.00000002185566, z: -7.3633624e-31, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mao-Esquerda
+      parentName: Antebraco-Esquerdo
+      position: {x: -0.000000059604645, y: 0.975723, z: -1.256696e-16}
+      rotation: {x: -8.881782e-16, y: -3.5527137e-15, z: -5.2108052e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mao-Esquerda_end
+      parentName: Mao-Esquerda
+      position: {x: -0, y: 0.261765, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aux-Clavicula-Direita
+      parentName: Coluna-Cima
+      position: {x: 0.4715893, y: 0.8496287, z: -0.00000011243565}
+      rotation: {x: -0.50000006, y: -0.49999994, z: -0.4999999, w: 0.5000001}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ombro-Direito
+      parentName: Aux-Clavicula-Direita
+      position: {x: -0, y: 0.14739946, z: 0}
+      rotation: {x: 5.04871e-29, y: 0.000000021855696, z: 3.3655287e-30, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Braco-Direito
+      parentName: Ombro-Direito
+      position: {x: -0, y: 0.36361223, z: 0}
+      rotation: {x: 0.0030856016, y: 0.7071002, z: -0.003085405, w: -0.7070999}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Antebraco-Direito
+      parentName: Braco-Direito
+      position: {x: 0.000000059604645, y: 0.9079234, z: -1.3896634e-22}
+      rotation: {x: 6.3108872e-30, y: 0.000000021855662, z: -1.5777218e-30, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mao-Direita
+      parentName: Antebraco-Direito
+      position: {x: 0.000000059604645, y: 0.975723, z: 2.524355e-29}
+      rotation: {x: 1.1442796e-28, y: 3.5527137e-15, z: 1.894624e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mao-Direita_end
+      parentName: Mao-Direita
+      position: {x: -0, y: 0.261765, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Aux-Pelve
+      parentName: Ossos
+      position: {x: -0, y: 0, z: 0.049292207}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Coxa-Esquerda
+      parentName: Aux-Pelve
+      position: {x: -0.35604608, y: 0.13869417, z: 0}
+      rotation: {x: 0, y: -0.000000119209275, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Panturrilha-Esquerda
+      parentName: Coxa-Esquerda
+      position: {x: -0, y: 0.92560923, z: 0}
+      rotation: {x: 0, y: 0.000000119209275, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Panturrilha-Esquerda_end
+      parentName: Panturrilha-Esquerda
+      position: {x: -0, y: 0.8725487, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Coxa-Direita
+      parentName: Aux-Pelve
+      position: {x: 0.35650527, y: 0.13869417, z: 0}
+      rotation: {x: 0, y: -0.000000119209275, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Panturrilha-Direita
+      parentName: Coxa-Direita
+      position: {x: -0, y: 0.92560923, z: 0}
+      rotation: {x: 0, y: 0.000000119209275, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Panturrilha-Direita_end
+      parentName: Panturrilha-Direita
+      position: {x: -0, y: 0.8725487, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cabeca
+      parentName: CabecaHumana(Clone)
+      position: {x: -0, y: -0.00000011920929, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

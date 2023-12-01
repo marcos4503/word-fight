@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 5a815b0d2fd7b624a958b7e1e767887c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Antebraco-Direito
+    100002: Antebraco-Esquerdo
+    100004: Aux-Clavicula-Direita
+    100006: Aux-Clavicula-Esquerda
+    100008: Aux-Espinha
+    100010: Aux-Pelve
+    100012: Aux-Pescoco
+    100014: Braco-Direito
+    100016: Braco-Esquerdo
+    100018: Cabeca
+    100020: Coluna-Baixo
+    100022: Coluna-Cima
+    100024: Corpo
+    100026: Coxa-Direita
+    100028: Coxa-Esquerda
+    100030: Mao-Direita
+    100032: Mao-Esquerda
+    100034: Ombro-Direito
+    100036: Ombro-Esquerdo
+    100038: Ossos
+    100040: Panturrilha-Direita
+    100042: Panturrilha-Esquerda
+    100044: //RootNode
+    100046: Sapato
+    400000: Antebraco-Direito
+    400002: Antebraco-Esquerdo
+    400004: Aux-Clavicula-Direita
+    400006: Aux-Clavicula-Esquerda
+    400008: Aux-Espinha
+    400010: Aux-Pelve
+    400012: Aux-Pescoco
+    400014: Braco-Direito
+    400016: Braco-Esquerdo
+    400018: Cabeca
+    400020: Coluna-Baixo
+    400022: Coluna-Cima
+    400024: Corpo
+    400026: Coxa-Direita
+    400028: Coxa-Esquerda
+    400030: Mao-Direita
+    400032: Mao-Esquerda
+    400034: Ombro-Direito
+    400036: Ombro-Esquerdo
+    400038: Ossos
+    400040: Panturrilha-Direita
+    400042: Panturrilha-Esquerda
+    400044: //RootNode
+    400046: Sapato
+    2100000: None__atlas-humano_psd
+    4300000: Corpo
+    4300002: Sapato
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Corpo
+    13700002: Sapato
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__atlas-humano_psd
+    second: {fileID: 2100000, guid: d673c53c4b88bd74f8cbf6d79402adc9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
